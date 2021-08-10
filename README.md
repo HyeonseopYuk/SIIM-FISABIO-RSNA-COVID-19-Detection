@@ -13,7 +13,7 @@ X-ray 사진을 통해 pneumonia, atypical,typical, indeterminate 분류 및 특
 ![image](https://user-images.githubusercontent.com/66717716/128819167-e068f9a8-3dae-466e-a7b9-2947eed16c40.png)
 
 
-자세한 내용은 아래 사이트 참조.  
+대회 관련 자세한 내용은 아래 사이트 참조.  
 
 https://www.notion.so/yhssnotation/SIIM-FISABIO-RSNA-COVID-19-Detection-2524888e970f46c3b50b11f459143e1d#384b64df219c424987bb311c31c510c0
 
